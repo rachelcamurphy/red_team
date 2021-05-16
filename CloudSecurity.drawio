@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-16T14:49:58.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="SMJhRwnFvyYehnW-ZlV2" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-16T15:14:54.244Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="cFdlf-3SFSHQei-6mC3s" version="14.6.13" type="github">
   <diagram id="xhWEncYnTAK7upbZhdO4" name="Page-1">
-    <mxGraphModel dx="419" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1465" dy="1690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,36 @@
         </mxCell>
         <mxCell id="GI7_dzhm72Ke3vOXMHdG-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="240" y="150" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="GI7_dzhm72Ke3vOXMHdG-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="GI7_dzhm72Ke3vOXMHdG-4" value="RedTeam Resource Group&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="110" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GI7_dzhm72Ke3vOXMHdG-5" value="RedNet Virtual Network" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="130" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GI7_dzhm72Ke3vOXMHdG-6" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GI7_dzhm72Ke3vOXMHdG-7" value="Internet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GI7_dzhm72Ke3vOXMHdG-8" value="Load Balancer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="240" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GI7_dzhm72Ke3vOXMHdG-9" value="&lt;h1&gt;Rachel Murphy&lt;/h1&gt;&lt;p&gt;Azure Cloud Security Diagram&lt;/p&gt;&lt;p&gt;May 15, 2021&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-70" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GI7_dzhm72Ke3vOXMHdG-10" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="1">
+          <mxGeometry x="365.5" y="318" width="69" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="GI7_dzhm72Ke3vOXMHdG-11" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="1">
+          <mxGeometry x="450" y="318" width="69" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="GI7_dzhm72Ke3vOXMHdG-12" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="1">
+          <mxGeometry x="260" y="318" width="69" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
